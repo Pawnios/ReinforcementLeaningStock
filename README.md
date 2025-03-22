@@ -1,5 +1,5 @@
 
-# ReinforcementLeaningStock
+# ReinforcementLearningStock
 RL-Driven Stock Trading Strategy: Modelling and Implementation
 Deep Reinforcement Learning for Automated Stock Trading
 
